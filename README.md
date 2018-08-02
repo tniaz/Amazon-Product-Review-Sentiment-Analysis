@@ -1,4 +1,4 @@
-![alt text](https://github.com/tniaz/Amazon-Product-Review-Sentiment-Analysis/blob/master/amazon.png)
+![alt text]()
 # Project Description
 
 This project allows the user to pull reviews for a user-specified product from Amazon and perform sentiment analysis. Product reviews are scraped from Amazon.com using the Amazon Web Scraper API, and sentiment analysis is performed in Python.
